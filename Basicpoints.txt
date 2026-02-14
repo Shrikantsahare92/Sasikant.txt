@@ -1,0 +1,41 @@
+✅ Basic Points of VS Code
+
+🔹 1. Free and Open Source
+
+  Free me use kar sakte ho.
+
+🔹 2. Lightweight Editor
+
+  Fast aur smooth performance.
+
+🔹 3. Multiple Language Support
+
+  HTML, CSS, JavaScript, Python, Java, C++, etc.
+
+🔹 4. Extensions Support
+
+  Extra features install kar sakte ho (themes, debugger, language tools).
+
+🔹 5. Syntax Highlighting
+
+  Code different colors me show hota hai, easy reading.
+
+🔹 6. IntelliSense
+
+  Auto-complete suggestions aur code hints.
+
+🔹 7. Built-in Terminal
+
+  VS Code ke andar hi commands run kar sakte ho.
+
+🔹 8. Git Integration
+
+  Direct GitHub aur version control support.
+
+🔹 9. Debugging Tools
+
+  Code errors find aur fix karna easy.
+
+🔹 10. Cross Platform
+
+  Windows, Linux, macOS sab me work karta hai.
