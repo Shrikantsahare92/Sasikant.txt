@@ -1,0 +1,177 @@
+
+✅ Basic Git Bash Commands and Their Uses
+ 📁 1. Folder Navigation Commands
+ 🔹 pwd:-
+ 👉 Current folder location show karta hai.
+
+Example:
+
+ pwd
+ Use:-
+
+ Abhi kis directory me ho wo check karne ke liye.
+
+ 🔹 ls:-
+ 👉 Folder ke andar ki files aur folders list karta hai.
+
+Example:
+        ls
+ 
+ 🔹 cd:-
+ 👉 Folder change karne ke liye.
+
+Example:
+cd Desktop
+
+Use:-
+
+ Desktop folder me jane ke liye.
+
+ Back jane ke liye:
+
+ cd ..
+
+ 🔹 mkdir:-
+ 👉 New folder banane ke liye.
+
+Example:
+
+mkdir myproject
+ 🔹 rm:-
+ 👉 File delete karne ke liye.
+
+Example:
+
+rm file.txt
+
+ 📦 2. Git Setup Commands:-
+ 🔹 git --version:-
+
+ 👉 Git installed hai ya nahi check karne ke liye.
+
+ 🔹 git config:-
+ 👉 Username aur email set karne ke liye.
+
+Example:-
+
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+Use:-
+
+Git commits me author name set karne ke liye.
+
+ 📂 3. Repository Commands:-
+ 🔹 git init:-
+ 👉 New git repository start karta hai.
+
+Example:
+
+git init
+
+ 🔹 git clone:-
+ 👉 GitHub se project download (copy) karne ke liye.
+
+Example:
+
+git clone repo-link
+
+ 📌 4. File Tracking Commands:-
+ 🔹 git status:-
+ 👉 Kaunsi files modified ya staged hai wo check karta hai.
+
+Example:
+
+git status
+
+ 🔹 git add:-
+ 👉 File ko staging area me add karta hai.
+
+Example:
+
+git add file.txt
+Sab files add:
+
+git add .
+
+ 🔹 git commit:-
+ 👉 Changes save (snapshot) karta hai.
+
+Example:
+
+git commit -m "message"
+Use:-
+
+Changes permanently save karne ke liye.
+
+ 🌐 5. GitHub Commands:-
+ 🔹 git remote add origin:-
+ 👉 Local project ko GitHub repository se connect karta hai.
+
+Example:
+
+git remote add origin repo-link
+
+ 🔹 git push:-
+ 👉 Code GitHub pe upload karta hai.
+
+Example:
+
+git push origin main
+
+ 🔹 git pull:-
+ 👉 GitHub se latest changes download karta hai.
+
+Example:
+
+git pull origin main
+
+ 🌿 6. Branch Commands:-
+ 🔹 git branch:-
+ 👉 Branch list show karta hai.
+
+Example:
+
+git branch
+
+ 🔹 git branch branchname:-
+ 👉 New branch create karta hai.
+
+Example:
+
+git branch Branch1
+
+ 🔹 git checkout:-
+ 👉 Branch switch karne ke liye.
+
+Example:
+
+git checkout Branch1
+
+ 🔹 git checkout -b:-
+ 👉 New branch create + switch ek hi command me.
+
+Example:
+
+git checkout -b newbranch
+
+ 🔄 7. Update Commands:-
+ 🔹 git fetch:-
+ 👉 Remote changes check karta hai (download nahi karta fully).
+
+ 🔹 git merge:-
+ 👉 Branch merge karta hai.
+
+Example:
+
+git merge Branch1
+
+ ⭐ BONUS (Most Used Workflow)
+ 👉 Normal workflow:
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin repo-link
+git push -u origin main
+
+
