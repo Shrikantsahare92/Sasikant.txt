@@ -1,0 +1,55 @@
+✅ Applications of VS Code
+
+🔹 1. Programming / Coding
+
+  HTML, CSS, JavaScript
+
+  Python, Java, C, C++, etc.
+
+  Multiple languages support.
+
+🔹 2. Web Development
+
+  Website design and development.
+
+  Frontend and backend coding.
+
+🔹 3. Debugging
+
+  Code me errors find aur fix karne ke tools.
+
+🔹 4. Git & GitHub Integration
+  Version control.
+
+  Branch create, commit, push directly.
+
+🔹 5. Extension Support
+
+  Extra features install kar sakte ho (themes, tools, language support).
+
+🔹 6. Code Editing
+
+  Syntax highlighting.
+
+  Auto-complete suggestions.
+
+🔹 7. Project Management
+
+  Large projects ko organize karna easy.
+🔹 8. Remote Development
+
+  Remote server ya cloud me coding.
+
+🔹 9. Data Science & AI
+
+  Python notebooks, machine learning coding.
+
+🔹 10. Cross-platform
+
+  Windows, Linux, macOS sab me chalta hai.
+
+🔹 8. Remote Development
+
+Remote server ya cloud me coding.
+
+🔹 9. Data Science & AI

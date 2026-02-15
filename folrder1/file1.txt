@@ -1,0 +1,101 @@
+✅ 1. Percentage (सबसे important)
+
+👉 Percentage = (Value / Total) × 100
+
+👉 Increase % = (Increase / Original) × 100
+
+👉 Decrease % = (Decrease / Original) × 100
+
+👉 Successive change:
+
+Net % change = A + B + (A×B)/100
+
+
+Example: +10% and +20% = 32%
+
+✅ 2. Profit and Loss
+
+👉 Profit = SP − CP
+👉 Loss = CP − SP
+
+👉 Profit % = (Profit / CP) × 100
+
+👉 Loss % = (Loss / CP) × 100
+
+👉 SP = CP × (100 + Profit%) / 100
+
+👉 SP = CP × (100 − Loss%) / 100
+
+✅ 3. Ratio and Proportion
+
+👉 a : b = c : d
+
+👉 Product of extremes = Product of means
+
+a/b = c/d
+
+
+👉 Total share:
+
+Total × (individual ratio / sum of ratios)
+
+✅ 4. Average
+
+👉 Average = Sum of observations / Total number
+
+👉 Total sum = Average × Number
+
+✅ 5. Time and Work
+
+👉 Work = Time × Efficiency
+
+👉 If A takes x days:
+
+1 day work = 1/x
+
+
+👉 Together work:
+
+1/A + 1/B
+
+✅ 6. Speed, Time and Distance
+
+👉 Speed = Distance / Time
+
+👉 Distance = Speed × Time
+
+👉 Time = Distance / Speed
+
+👉 Relative speed (opposite direction) = S1 + S2
+
+👉 Same direction = |S1 − S2|
+
+✅ 7. Simple Interest (SI)
+SI = (P × R × T) / 100
+
+✅ 8. Compound Interest (CI)
+Amount = P(1 + R/100)^T
+
+✅ 9. Permutation & Combination (Basic)
+
+👉 Permutation:
+
+nPr = n! / (n−r)!
+
+
+👉 Combination:
+
+nCr = n! / (r! (n−r)!)
+
+✅ 10. Probability
+Probability = Favorable outcomes / Total outcomes
+
+🔥 Engineering students ke liye MOST asked topics
+
+⭐ Percentage
+⭐ Ratio
+⭐ Time & Work
+⭐ Speed Distance
+⭐ Profit Loss
+⭐ Number System
+⭐ Logical reasoning basics
